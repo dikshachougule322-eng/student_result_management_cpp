@@ -1,4 +1,4 @@
-# student_result_management_cpp```
+# student_result_management_cpp
 A console-based Student Result Management System developed using C++.
 ## Features
 Add Student Record.
