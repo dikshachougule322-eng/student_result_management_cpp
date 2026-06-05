@@ -14,8 +14,8 @@ File Handling
 Arrays
 Git and Github
 ## Project File
-main.cpp
-student.cpp
-student.h
+main.cpp.
+student.cpp.
+student.h.
 ## How to Run
 g++ main.cpp student.cpp -o result ./result
