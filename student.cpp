@@ -1,6 +1,6 @@
 #include <iostream>
 #include <fstream>
-#include "students.h"
+#include "student.h"
 
 using namespace std;
 
